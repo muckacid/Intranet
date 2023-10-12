@@ -426,6 +426,7 @@ public class App extends javax.swing.JFrame {
         main_menu_nuevo_estudiante.setEnabled(false);
         String nombre = "";
         String apellido = "";
+        String rut = "";
     }//GEN-LAST:event_main_menu_nuevo_estudianteActionPerformed
 
     private void form_btn_NewStudent_guardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_form_btn_NewStudent_guardarActionPerformed
